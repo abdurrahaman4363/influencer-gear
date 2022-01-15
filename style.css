@@ -47,11 +47,19 @@ main start from here
 }
 .button-red-col{
     color: white;
-    background-color: tomato;
+    background-color:rgb(250, 21, 219);
     text-decoration: none;
     border-radius: 15px;
     padding: 5px;
     margin: 50px;
+}
+#open-button{
+    text-align: right;
+    color: rgb(250, 21, 219);
+    text-decoration: none;
+}
+.button-right{
+    text-align: right;
 }
 
 
