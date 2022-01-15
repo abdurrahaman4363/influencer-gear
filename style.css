@@ -1,0 +1,29 @@
+/*-----------------------
+ nav styles start from here 
+ -------------------------*/
+
+nav>ul>li img{
+    width: 20px;
+    height: 20px;
+}
+nav>ul{
+    display: flex;
+    float: right;
+   
+   
+}
+nav>ul>li{
+    
+    margin-right: 10px;
+    list-style-type: none;
+    
+    
+}
+.nav-bar{
+    display: flex;
+    align-content: space-between;
+    
+    
+}
+
+
