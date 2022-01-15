@@ -18,14 +18,20 @@ nav>ul>li{
     list-style-type: none;
     
     
+    
 }
 .nav-bar{
 
     display: flex;
-    align-content: space-between;
+
+    
+    
     margin: 50px;
     
     
+}
+nav{
+    margin-left: 300px;
 }
 
 
@@ -63,6 +69,19 @@ main start from here
     margin-right: 15px;
 }
 
+
+/* ------------------
+popular Collection
+-----------------  */
+.orange{
+    color: orange;
+}
+#space-points{
+    margin-left: 10px;
+}
+.popular-center{
+    text-align: center;
+}
 
 
 
