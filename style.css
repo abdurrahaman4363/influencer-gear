@@ -82,6 +82,61 @@ popular Collection
 .popular-center{
     text-align: center;
 }
+.all-div{
+    /* background-color: wheat; */
+}
 
 
+.grid-use{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
 
+.div-one{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+
+}
+.div-two{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-three{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-four{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-five{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-six{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-seven{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-eight{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.div-nine{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
