@@ -2,6 +2,7 @@
  nav styles start from here 
  -------------------------*/
 
+
 nav>ul>li img{
     width: 20px;
     height: 20px;
@@ -51,7 +52,7 @@ main start from here
     text-decoration: none;
     border-radius: 15px;
     padding: 5px;
-    margin: 50px;
+    
 }
 #open-button{
     text-align: right;
@@ -61,7 +62,12 @@ main start from here
 .button-right{
     text-align: right;
 }
-
+#personal-button{
+    color: white;
+    background-color:rgb(250, 21, 219);
+    text-decoration: none;
+    padding: 5px;
+}
 
 
 
@@ -70,11 +76,15 @@ main start from here
 ------------------- */
 
 .company-logo{
-    margin: 40px;
+    margin-left: 100px;
+    margin-right: 80px;
    
 }
 .company-logo img{
     margin-right: 15px;
+}
+hr{
+    width: 900px;
 }
 
 
@@ -92,6 +102,7 @@ popular Collection
 }
 .all-div{
     /* background-color: wheat; */
+    margin: 70px;
 }
 
 
@@ -147,4 +158,27 @@ popular Collection
     border-radius: 5px;
     background-color: whitesmoke;
     padding: 10px;
+}
+
+
+/* --------------------
+personal info start
+--------------------- */
+.personal-info{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 100%;
+   margin: 60px;
+}
+
+
+/* -----------------
+footer tag start
+------------------- */
+.footer-center{
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin: 0px;
+    padding: 30px;
 }
