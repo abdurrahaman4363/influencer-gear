@@ -20,10 +20,49 @@ nav>ul>li{
     
 }
 .nav-bar{
+
     display: flex;
     align-content: space-between;
+    margin: 50px;
     
     
 }
+
+
+/* --------------
+main start from here
+---------------- */
+
+
+.journey-camera{
+    display: flex;
+    width: 100%;
+    margin: 50px;
+}
+.button-red-col{
+    color: white;
+    background-color: tomato;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 50px;
+}
+
+
+
+
+/* --------------
+ section two
+------------------- */
+
+.company-logo{
+    margin: 40px;
+   
+}
+.company-logo img{
+    margin-right: 15px;
+}
+
+
 
 
